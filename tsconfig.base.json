@@ -14,7 +14,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@microfrontends/load-remote-module": [
+        "libs/load-remote-module/src/index.ts"
+      ]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
