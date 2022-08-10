@@ -1,4 +1,5 @@
 
+# Demo project for article on [taras.one](https://taras.one/blog/dynamic-micro-frontends-with-nx-and-react) blog.
 
 # Microfrontends
 
